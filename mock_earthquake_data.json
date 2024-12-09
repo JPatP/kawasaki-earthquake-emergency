@@ -1,0 +1,218 @@
+[
+  {
+    "id": "20241209173757164",
+    "timestamp": "2024-12-09T17:37:57.164Z",
+    "location": "Kawasaki City",
+    "magnitude": 6.3,
+    "depth": 9,
+    "instructions": "Please Drop, Cover, Hold On and Move to an open area away from building and watch out for falling debris"
+  },
+  {
+    "id": "20241209172430703",
+    "timestamp": "2024-12-09T17:24:30.703Z",
+    "location": "Kawasaki City",
+    "magnitude": 4.7,
+    "depth": 1,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209172230702",
+    "timestamp": "2024-12-09T17:22:30.702Z",
+    "location": "Kawasaki City",
+    "magnitude": 7,
+    "depth": 13,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209172030699",
+    "timestamp": "2024-12-09T17:20:30.699Z",
+    "location": "Kawasaki City",
+    "magnitude": 4.6,
+    "depth": 6,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209171830684",
+    "timestamp": "2024-12-09T17:18:30.684Z",
+    "location": "Kawasaki City",
+    "magnitude": 5.7,
+    "depth": 18,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209171630673",
+    "timestamp": "2024-12-09T17:16:30.674Z",
+    "location": "Kawasaki City",
+    "magnitude": 3.3,
+    "depth": 6,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209171430667",
+    "timestamp": "2024-12-09T17:14:30.667Z",
+    "location": "Kawasaki City",
+    "magnitude": 5,
+    "depth": 5,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209171230653",
+    "timestamp": "2024-12-09T17:12:30.653Z",
+    "location": "Kawasaki City",
+    "magnitude": 3.3,
+    "depth": 22,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209171030647",
+    "timestamp": "2024-12-09T17:10:30.647Z",
+    "location": "Kawasaki City",
+    "magnitude": 6.4,
+    "depth": 21,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209170830639",
+    "timestamp": "2024-12-09T17:08:30.639Z",
+    "location": "Kawasaki City",
+    "magnitude": 4,
+    "depth": 10,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209170630638",
+    "timestamp": "2024-12-09T17:06:30.639Z",
+    "location": "Kawasaki City",
+    "magnitude": 8,
+    "depth": 13,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209170430629",
+    "timestamp": "2024-12-09T17:04:30.629Z",
+    "location": "Kawasaki City",
+    "magnitude": 3.5,
+    "depth": 14,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209170230628",
+    "timestamp": "2024-12-09T17:02:30.628Z",
+    "location": "Kawasaki City",
+    "magnitude": 7.6,
+    "depth": 5,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209170030625",
+    "timestamp": "2024-12-09T17:00:30.625Z",
+    "location": "Kawasaki City",
+    "magnitude": 5.3,
+    "depth": 16,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209163801185",
+    "timestamp": "2024-12-09T16:38:01.186Z",
+    "location": "Kawasaki City",
+    "magnitude": 5.1,
+    "depth": 15,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209163601183",
+    "timestamp": "2024-12-09T16:36:01.183Z",
+    "location": "Kawasaki City",
+    "magnitude": 6.5,
+    "depth": 7,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209163401183",
+    "timestamp": "2024-12-09T16:34:01.183Z",
+    "location": "Kawasaki City",
+    "magnitude": 7.8,
+    "depth": 6,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209163201178",
+    "timestamp": "2024-12-09T16:32:01.178Z",
+    "location": "Kawasaki City",
+    "magnitude": 4.7,
+    "depth": 14,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209163001178",
+    "timestamp": "2024-12-09T16:30:01.178Z",
+    "location": "Kawasaki City",
+    "magnitude": 3.6,
+    "depth": 13,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209162801174",
+    "timestamp": "2024-12-09T16:28:01.174Z",
+    "location": "Kawasaki City",
+    "magnitude": 3.8,
+    "depth": 15,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209162601166",
+    "timestamp": "2024-12-09T16:26:01.166Z",
+    "location": "Kawasaki City",
+    "magnitude": 5,
+    "depth": 9,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209142308220",
+    "timestamp": "2024-12-09T14:23:08.220Z",
+    "location": "Kawasaki City",
+    "magnitude": 5.4,
+    "depth": 9,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209141745714",
+    "timestamp": "2024-12-09T14:17:45.714Z",
+    "location": "Kawasaki City",
+    "magnitude": 6.2,
+    "depth": 10,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209141545701",
+    "timestamp": "2024-12-09T14:15:45.701Z",
+    "location": "Kawasaki City",
+    "magnitude": 3.1,
+    "depth": 28,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241209141345693",
+    "timestamp": "2024-12-09T14:13:45.693Z",
+    "location": "Kawasaki City",
+    "magnitude": 7.8,
+    "depth": 6,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241208093001",
+    "timestamp": "2024-12-08T09:30:01+09:00",
+    "location": "Kawasaki City",
+    "magnitude": 4.5,
+    "depth": 10,
+    "instructions": "Drop, Hold, Cover"
+  },
+  {
+    "id": "20241208091500",
+    "timestamp": "2024-12-08T09:15:00+09:00",
+    "location": "Yokohama City",
+    "magnitude": 3.8,
+    "depth": 20,
+    "instructions": "Stay indoors and away from windows"
+  }
+]
